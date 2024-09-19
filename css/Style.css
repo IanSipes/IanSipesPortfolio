@@ -1,0 +1,70 @@
+html,
+    body 
+
+}
+
+html {
+		
+	font-size: 3em;
+    line-height: 1.7em;
+}
+
+
+body {
+    font-family: "ITC Franklin Gothic", sans-serif;
+background:yellowgreen;
+   color: green;
+    margin:100px;
+    
+}
+
+ 
+h1 {
+  background-color: darkseagreen;
+  color: Red;
+  font-family: "Impact", sans-serif;
+  font-size: 35px;
+}
+
+
+div {
+ 
+
+}
+
+div#container {
+	border:4px solid darkseagreen;
+background: light yellow;
+        width: 100%;
+    max-width: 1800px;
+    margin:auto;
+}
+
+nav ul {
+    list-style: none;
+    padding-left: 0px
+        
+}
+
+a {
+  color: red;
+}
+
+a:hover {
+  color: yellow;
+}
+
+figure {
+  margin: 0px;
+}
+
+figure img {
+  width: 30%;
+}
+
+figcaption, footer {
+  font-size: 0.75em;
+}
+
+
+
